@@ -1,0 +1,11 @@
+npx shadcn@latest add accordion alert alert-dialog aspect-ratio avatar badge breadcrumb button calendar card
+
+npx shadcn@latest add carousel checkbox collapsible command context-menu table dialog drawer dropdown-menu
+
+npx shadcn@latest add hover-card input input-otp label menubar navigation-menu pagination popover progress radio-group
+
+npx shadcn@latest add resizable scroll-area select separator sheet sidebar skeleton slider sonner switch
+
+npx shadcn@latest add table tabs textarea toast toggle toggle-group tooltip
+
+npm install @tanstack/react-table dayjs alova react-redux @reduxjs/toolkit @alova/adapter-axios axios magic-ui tailwindcss postcss autoprefixer motion --legacy-peer-deps
