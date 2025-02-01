@@ -8,4 +8,9 @@ npx shadcn@latest add resizable scroll-area select separator sheet sidebar skele
 
 npx shadcn@latest add table tabs textarea toast toggle toggle-group tooltip
 
-npm install @tanstack/react-table dayjs alova react-redux @reduxjs/toolkit @alova/adapter-axios axios magic-ui tailwindcss postcss autoprefixer motion --legacy-peer-deps
+npm i @next/mdx @mdx-js/loader @mdx-js/react @types/mdx next-mdx-remote --legacy-peer-deps
+
+npm install @tanstack/react-table dayjs alova react-redux @reduxjs/toolkit @alova/adapter-axios axios magic-ui tailwindcss postcss autoprefixer motion pdf
+ rehype-highlight gray-matter 
+npm i rehype-starry-night rehype-highlight --legacy-peer-deps
+npm install highlight.js prismjs @types/prismjs --legacy-peer-deps
